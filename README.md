@@ -1,0 +1,1 @@
+# Web-Scraper-for-Trendyol-Product-Data
